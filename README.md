@@ -1,2 +1,3 @@
+SKT FLY AI 6기 교육 과정 기록 (੭•̀ᴗ•̀)੭
 
 - [**`FastAPI Study`**](https://github.com/urfall/FLYAI-FastAPI)
