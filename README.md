@@ -1,4 +1,2 @@
-# FLYAI
 
-
-https://github.com/urfall/FLYAI-FastAPI
+- [**`FastAPI Study`**](https://github.com/urfall/FLYAI-FastAPI)
